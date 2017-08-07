@@ -37,6 +37,10 @@ Modern java (ES6) is much different from what you may have learned in the past. 
 - JSON syntax
 - jQuery
 - lodash.js/underscore.js
+- HTTP error codes
+- HTTP 1 v HTTP 1.1
+- Email
+- SSH
 
 
 ## Server Technologies
@@ -78,3 +82,4 @@ Modern java (ES6) is much different from what you may have learned in the past. 
 - Load balancing
 - DDOS prevention
 - Packet routing
+- Ports (including common ports)
